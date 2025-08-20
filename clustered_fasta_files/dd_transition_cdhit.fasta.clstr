@@ -1,0 +1,771 @@
+>Cluster 0
+0	4953aa, >Ryanodine... *
+>Cluster 1
+0	3969aa, >Histone-lysine... *
+1	3969aa, >Histone-lysine... at 100.00%
+2	3969aa, >Histone-lysine... at 100.00%
+3	3969aa, >Histone-lysine... at 100.00%
+>Cluster 2
+0	3423aa, >Core... *
+>Cluster 3
+0	3011aa, >Nonstructural... *
+1	3011aa, >Nonstructural... at 100.00%
+>Cluster 4
+0	2843aa, >Adenomatous... *
+>Cluster 5
+0	2442aa, >CREB-binding... *
+1	2442aa, >CREB-binding... at 100.00%
+2	2442aa, >CREB-binding... at 100.00%
+3	2442aa, >CREB-binding... at 100.00%
+>Cluster 6
+0	2171aa, >Dihydropyridine... *
+>Cluster 7
+0	2012aa, >Nuclear... *
+>Cluster 8
+0	1970aa, >DNA-directed... *
+>Cluster 9
+0	1912aa, >Chromodomain-helica... *
+>Cluster 10
+0	1906aa, >Myosin... *
+>Cluster 11
+0	1889aa, >Immunoglobulin-like... *
+>Cluster 12
+0	1738aa, >Gag-Pol... *
+1	1738aa, >Gag-Pol... at 100.00%
+2	538aa, >Gag... at 100.00%
+3	538aa, >Gag... at 100.00%
+>Cluster 13
+0	1733aa, >RNA... *
+>Cluster 14
+0	1689aa, >Protein... *
+>Cluster 15
+0	1647aa, >Transcription... *
+>Cluster 16
+0	1596aa, >Protein... *
+>Cluster 17
+0	1544aa, >Arf-GAP... *
+>Cluster 18
+0	1528aa, >Rho... *
+>Cluster 19
+0	1480aa, >Cystic... *
+>Cluster 20
+0	1475aa, >Nup153_FC00098_1313... *
+>Cluster 21
+0	1464aa, >Collagen... *
+1	1464aa, >Collagen... at 100.00%
+>Cluster 22
+0	1437aa, >Histone-lysine... *
+>Cluster 23
+0	1429aa, >Nitric... *
+>Cluster 24
+0	1371aa, >Leucine-rich... *
+>Cluster 25
+0	1315aa, >Bifunctional... *
+>Cluster 26
+0	1309aa, >DNA... *
+1	1309aa, >DNA... at 100.00%
+2	1309aa, >DNA... at 100.00%
+3	1309aa, >DNA... at 100.00%
+>Cluster 27
+0	1272aa, >UPF2_FC00035_1130-1... *
+>Cluster 28
+0	1270aa, >Activating... *
+>Cluster 29
+0	1255aa, >Receptor... *
+1	1255aa, >Receptor... at 100.00%
+2	1255aa, >Receptor... at 100.00%
+3	1255aa, >Receptor... at 100.00%
+4	1255aa, >Receptor... at 100.00%
+5	1255aa, >Receptor... at 100.00%
+6	1255aa, >Receptor... at 100.00%
+>Cluster 30
+0	1254aa, >Myosin... *
+>Cluster 31
+0	1224aa, >Coatomer... *
+>Cluster 32
+0	1210aa, >AF4... *
+>Cluster 33
+0	1210aa, >Epidermal... *
+1	1210aa, >Epidermal... at 100.00%
+>Cluster 34
+0	1203aa, >Nitric... *
+1	1203aa, >Nitric... at 100.00%
+>Cluster 35
+0	1153aa, >Nitric... *
+>Cluster 36
+0	1117aa, >Cup_FC00073_1-317... *
+1	1117aa, >Cup_FC00073_340-361... at 100.00%
+2	1117aa, >Cup_FC00073_377-111... at 100.00%
+>Cluster 37
+0	1104aa, >Partner... *
+>Cluster 38
+0	1039aa, >Integrin... *
+1	1039aa, >Integrin... at 100.00%
+>Cluster 39
+0	1031aa, >DNA... *
+>Cluster 40
+0	1026aa, >Maternal... *
+>Cluster 41
+0	1004aa, >PHD... *
+1	1004aa, >PHD... at 100.00%
+>Cluster 42
+0	979aa, >Proline... *
+1	979aa, >Proline... at 100.00%
+>Cluster 43
+0	975aa, >E3... *
+>Cluster 44
+0	952aa, >Eukaryotic... *
+>Cluster 45
+0	917aa, >Sterile... *
+>Cluster 46
+0	917aa, >Interleukin-6... *
+>Cluster 47
+0	904aa, >Toll-like... *
+>Cluster 48
+0	901aa, >AP180_FC00077_623-6... *
+>Cluster 49
+0	884aa, >E-cadherin_FC00038_... *
+1	884aa, >E-cadherin_FC00038_... at 100.00%
+>Cluster 50
+0	881aa, >Gal4... *
+>Cluster 51
+0	872aa, >Potassium... *
+1	872aa, >Potassium... at 100.00%
+>Cluster 52
+0	856aa, >Envelope... *
+>Cluster 53
+0	847aa, >Signal... *
+>Cluster 54
+0	840aa, >Metabotropic... *
+>Cluster 55
+0	823aa, >Nsp1_FC00099_274-39... *
+>Cluster 56
+0	819aa, >Nuclear... *
+>Cluster 57
+0	807aa, >Oxysterol-binding... *
+>Cluster 58
+0	793aa, >E3... *
+>Cluster 59
+0	785aa, >Promoter... *
+>Cluster 60
+0	784aa, >Cadherin-5_FC00182_... *
+>Cluster 61
+0	770aa, >Amyloid-beta... *
+>Cluster 62
+0	761aa, >Ribonucleoside-diph... *
+>Cluster 63
+0	758aa, >Microtubule-associa... *
+>Cluster 64
+0	754aa, >DNA... *
+>Cluster 65
+0	747aa, >Elastin_FC00022_1-7... *
+>Cluster 66
+0	743aa, >Octamer... *
+>Cluster 67
+0	739aa, >Ebola... *
+1	739aa, >Ebola... at 100.00%
+>Cluster 68
+0	735aa, >Ribosomal... *
+1	735aa, >Ribosomal... at 100.00%
+>Cluster 69
+0	732aa, >Heat... *
+1	724aa, >Heat... at 86.74%
+>Cluster 70
+0	725aa, >Eukaryotic... *
+>Cluster 71
+0	724aa, >Postsynaptic... *
+>Cluster 72
+0	724aa, >Phosphatidylinosito... *
+>Cluster 73
+0	723aa, >Facilitates... *
+1	723aa, >Facilitates... at 100.00%
+>Cluster 74
+0	723aa, >NK2... *
+1	723aa, >NK2... at 100.00%
+>Cluster 75
+0	720aa, >DNA... *
+>Cluster 76
+0	719aa, >BRCA1-A... *
+>Cluster 77
+0	711aa, >Double-stranded... *
+>Cluster 78
+0	709aa, >ATP-dependent... *
+>Cluster 79
+0	709aa, >UV-stimulated... *
+>Cluster 80
+0	708aa, >SV40... *
+>Cluster 81
+0	704aa, >Brinker_FC00184_379... *
+>Cluster 82
+0	701aa, >Capsid... *
+>Cluster 83
+0	685aa, >Sup35_FC00029_1-114... *
+>Cluster 84
+0	680aa, >Tumor... *
+>Cluster 85
+0	673aa, >Forkhead... *
+1	673aa, >Forkhead... at 100.00%
+>Cluster 86
+0	669aa, >Amiloride-sensitive... *
+>Cluster 87
+0	668aa, >RNA-binding... *
+>Cluster 88
+0	665aa, >SH3... *
+>Cluster 89
+0	663aa, >Dynein... *
+>Cluster 90
+0	656aa, >EWS... *
+>Cluster 91
+0	654aa, >Transcription... *
+>Cluster 92
+0	650aa, >AP-1-like... *
+1	650aa, >AP-1-like... at 100.00%
+>Cluster 93
+0	648aa, >RAF... *
+>Cluster 94
+0	639aa, >Splicing... *
+1	639aa, >Splicing... at 100.00%
+>Cluster 95
+0	638aa, >Fibronectin... *
+>Cluster 96
+0	638aa, >Cytoplasmic... *
+>Cluster 97
+0	638aa, >Growth... *
+1	638aa, >Growth... at 100.00%
+>Cluster 98
+0	636aa, >Eukaryotic... *
+>Cluster 99
+0	635aa, >Tyrosine-protein... *
+>Cluster 100
+0	634aa, >Knob-associated... *
+>Cluster 101
+0	633aa, >Transcriptional... *
+>Cluster 102
+0	632aa, >Synaptic... *
+>Cluster 103
+0	630aa, >Ubiquitin-like... *
+>Cluster 104
+0	619aa, >T-cell... *
+>Cluster 105
+0	605aa, >Tyrosine-protein... *
+>Cluster 106
+0	597aa, >NF-E2-related... *
+>Cluster 107
+0	593aa, >Immunoglobulin... *
+>Cluster 108
+0	577aa, >Double-stranded... *
+>Cluster 109
+0	572aa, >M-phase... *
+>Cluster 110
+0	568aa, >AF9,... *
+1	568aa, >AF9,... at 100.00%
+>Cluster 111
+0	566aa, >Cytoplasmic... *
+>Cluster 112
+0	564aa, >Signal... *
+>Cluster 113
+0	545aa, >Serine/threonine-pr... at 77.25%
+1	559aa, >Serine/threonine-pr... *
+2	559aa, >Serine/threonine-pr... at 100.00%
+>Cluster 114
+0	549aa, >p65... at 89.25%
+1	549aa, >p65... at 89.25%
+2	551aa, >Transcription... *
+3	551aa, >Transcription... at 100.00%
+>Cluster 115
+0	549aa, >Protein... *
+>Cluster 116
+0	548aa, >60... *
+>Cluster 117
+0	538aa, >Gelatinase-associat... *
+>Cluster 118
+0	537aa, >Tyrosine-protein... *
+>Cluster 119
+0	533aa, >Lymphocyte... *
+>Cluster 120
+0	532aa, >Nucleoprotein... *
+1	532aa, >Nucleoprotein... at 100.00%
+2	532aa, >Nucleoprotein... at 92.11%
+3	532aa, >Nucleoprotein... at 92.11%
+>Cluster 121
+0	526aa, >Fused... *
+>Cluster 122
+0	525aa, >Measles... *
+1	525aa, >Measles... at 100.00%
+>Cluster 123
+0	522aa, >Nuclear... *
+>Cluster 124
+0	516aa, >HMG... *
+>Cluster 125
+0	507aa, >Nucleoporin... *
+1	507aa, >Nucleoporin... at 100.00%
+>Cluster 126
+0	505aa, >Peroxisome... *
+>Cluster 127
+0	502aa, >Wiskott-Aldrich... *
+>Cluster 128
+0	502aa, >Neuronal... *
+>Cluster 129
+0	500aa, >Gag... *
+>Cluster 130
+0	494aa, >Homeotic... *
+>Cluster 131
+0	490aa, >Tegument... *
+1	490aa, >Tegument... at 100.00%
+2	490aa, >Tegument... at 100.00%
+3	490aa, >Tegument... at 100.00%
+4	490aa, >Tegument... at 99.59%
+>Cluster 132
+0	487aa, >Epstein-Barr... *
+>Cluster 133
+0	486aa, >Methyl... *
+1	486aa, >Methyl... at 100.00%
+2	486aa, >Methyl... at 100.00%
+>Cluster 134
+0	481aa, >Proline... *
+>Cluster 135
+0	471aa, >Alkaline... *
+1	471aa, >Alkaline... at 100.00%
+2	471aa, >Alkaline... at 100.00%
+>Cluster 136
+0	465aa, >Serine/threonine-pr... *
+1	465aa, >Serine/threonine-pr... at 100.00%
+>Cluster 137
+0	462aa, >Golgi-associated... *
+>Cluster 138
+0	461aa, >Acetylcholine... *
+1	461aa, >Acetylcholine... at 100.00%
+>Cluster 139
+0	455aa, >Histone... *
+>Cluster 140
+0	450aa, >Sensor... *
+>Cluster 141
+0	446aa, >Maltoporin_FC00228_... *
+>Cluster 142
+0	445aa, >preS1... *
+>Cluster 143
+0	440aa, >Ets-1... *
+>Cluster 144
+0	440aa, >p62_FC00092_168-388... *
+>Cluster 145
+0	440aa, >Tumor... *
+>Cluster 146
+0	439aa, >c-Myc_FC00074_1-88... *
+>Cluster 147
+0	436aa, >Histone... *
+>Cluster 148
+0	435aa, >AP-2... *
+>Cluster 149
+0	427aa, >MAPK... *
+>Cluster 150
+0	425aa, >Tumor... *
+1	425aa, >Tumor... at 100.00%
+>Cluster 151
+0	424aa, >STAM-binding... *
+>Cluster 152
+0	418aa, >Neurotensin... *
+>Cluster 153
+0	417aa, >ORF57_FC00102_81-92... *
+>Cluster 154
+0	413aa, >Erythroid... *
+1	413aa, >Erythroid... at 100.00%
+>Cluster 155
+0	411aa, >Methyl-CpG... *
+1	411aa, >Methyl-CpG... at 100.00%
+>Cluster 156
+0	410aa, >Thymine-DNA... *
+>Cluster 157
+0	410aa, >Lysosome-associated... *
+>Cluster 158
+0	404aa, >RNA-binding... *
+>Cluster 159
+0	401aa, >Middle... *
+>Cluster 160
+0	401aa, >cAMP-dependent... *
+1	401aa, >cAMP-dependent... at 100.00%
+>Cluster 161
+0	399aa, >MAPK... *
+>Cluster 162
+0	396aa, >Maltose/maltodextri... *
+1	396aa, >Maltose/maltodextri... at 100.00%
+2	396aa, >Maltose/maltodextri... at 100.00%
+>Cluster 163
+0	394aa, >Homeotic... *
+>Cluster 164
+0	393aa, >p53... *
+>Cluster 165
+0	390aa, >Transforming... *
+>Cluster 166
+0	389aa, >Homeotic... *
+1	389aa, >Homeotic... at 100.00%
+>Cluster 167
+0	385aa, >Telomere-binding... *
+>Cluster 168
+0	382aa, >Gap... *
+>Cluster 169
+0	377aa, >Adaptor... at 70.03%
+1	380aa, >Cytoplasmic... *
+>Cluster 170
+0	377aa, >26S... *
+1	377aa, >26S... at 100.00%
+2	377aa, >26S... at 100.00%
+3	377aa, >26S... at 100.00%
+4	377aa, >26S... at 100.00%
+>Cluster 171
+0	375aa, >Pulmonary... *
+>Cluster 172
+0	362aa, >Krueppel-like... *
+>Cluster 173
+0	360aa, >Lactose... *
+>Cluster 174
+0	359aa, >Protein... *
+>Cluster 175
+0	358aa, >Plasmid... *
+>Cluster 176
+0	358aa, >Src... *
+>Cluster 177
+0	354aa, >Ure2_FC00028_1-89... *
+>Cluster 178
+0	352aa, >C-X-C... *
+>Cluster 179
+0	352aa, >C-C... *
+>Cluster 180
+0	350aa, >C-X-C... *
+>Cluster 181
+0	348aa, >Cellulase... *
+>Cluster 182
+0	333aa, >Plasmid... *
+>Cluster 183
+0	330aa, >Vacuolar... *
+>Cluster 184
+0	327aa, >Kinase... *
+1	327aa, >Kinase... at 100.00%
+>Cluster 185
+0	327aa, >Tumor... *
+>Cluster 186
+0	317aa, >iκBα_FC00062_67-2... *
+1	317aa, >iκBα_FC00062_276-... at 100.00%
+>Cluster 187
+0	313aa, >Uracil-DNA... *
+>Cluster 188
+0	294aa, >Nucleophosmin... *
+>Cluster 189
+0	289aa, >Adenovirus... *
+>Cluster 190
+0	289aa, >Heterokaryon... *
+1	289aa, >Heterokaryon... at 100.00%
+>Cluster 191
+0	288aa, >Programmed... *
+>Cluster 192
+0	286aa, >F-actin-capping... *
+1	286aa, >F-actin-capping... at 100.00%
+>Cluster 193
+0	284aa, >Cyclin-dependent... *
+>Cluster 194
+0	284aa, >Tropomyosin... *
+>Cluster 195
+0	282aa, >U1... *
+>Cluster 196
+0	281aa, >GCN4... *
+1	281aa, >GCN4_FC00061_1-134... at 100.00%
+2	281aa, >General... at 100.00%
+>Cluster 197
+0	280aa, >Merozoite... *
+>Cluster 198
+0	280aa, >Chaperone... *
+>Cluster 199
+0	280aa, >Transcription... *
+>Cluster 200
+0	276aa, >Rhomboid... *
+>Cluster 201
+0	272aa, >Merozoite... *
+>Cluster 202
+0	270aa, >Replication... *
+>Cluster 203
+0	270aa, >Cbp/p300-interactin... *
+>Cluster 204
+0	267aa, >Apolipoprotein... *
+1	267aa, >Apolipoprotein... at 100.00%
+2	267aa, >Apolipoprotein... at 100.00%
+3	267aa, >Apolipoprotein... at 100.00%
+>Cluster 205
+0	265aa, >Non-structural... *
+>Cluster 206
+0	264aa, >Osteopontin... *
+>Cluster 207
+0	259aa, >BCL2/adenovirus... *
+1	259aa, >BCL2/adenovirus... at 100.00%
+>Cluster 208
+0	250aa, >Myelin... *
+1	250aa, >Myelin... at 100.00%
+2	250aa, >Myelin... at 100.00%
+3	250aa, >Myelin... at 100.00%
+4	250aa, >Myelin... at 100.00%
+>Cluster 209
+0	248aa, >RRM... *
+>Cluster 210
+0	246aa, >Bromelain... *
+1	246aa, >Bromelain... at 100.00%
+>Cluster 211
+0	243aa, >Vesicle... *
+1	243aa, >Vesicle... at 100.00%
+>Cluster 212
+0	237aa, >Neurogenin... *
+>Cluster 213
+0	229aa, >Polyubiquitin-B_FC0... *
+>Cluster 214
+0	227aa, >Micrococcal... *
+>Cluster 215
+0	225aa, >Suppressor... *
+>Cluster 216
+0	223aa, >Cytotoxic... *
+>Cluster 217
+0	219aa, >Transmembrane... *
+>Cluster 218
+0	218aa, >ALYREF_FC00103_24-4... *
+>Cluster 219
+0	218aa, >Embryonic... *
+>Cluster 220
+0	215aa, >High-mobility... *
+>Cluster 221
+0	210aa, >Troponin... *
+1	210aa, >Troponin... at 100.00%
+>Cluster 222
+0	209aa, >Heat-shock... *
+1	205aa, >Heat... at 84.39%
+>Cluster 223
+0	209aa, >Geminin_FC00150_1-1... *
+>Cluster 224
+0	208aa, >Proheparin-binding... *
+>Cluster 225
+0	206aa, >Protein... *
+1	206aa, >Protein... at 100.00%
+2	206aa, >Protein... at 100.00%
+3	206aa, >Protein... at 100.00%
+>Cluster 226
+0	200aa, >nucleoplasmin... *
+>Cluster 227
+0	198aa, >p27<sup>Kip1</sup>_... *
+>Cluster 228
+0	198aa, >Syndecan-4_FC00372_... *
+>Cluster 229
+0	195aa, >BH3-interacting... *
+>Cluster 230
+0	194aa, >H1<sup>0</sup>... *
+>Cluster 231
+0	194aa, >E3... *
+>Cluster 232
+0	191aa, >Cell... *
+1	191aa, >Cell... at 100.00%
+>Cluster 233
+0	188aa, >V-Ki-ras2... *
+>Cluster 234
+0	180aa, >Pro-glucagon_FC0038... *
+>Cluster 235
+0	178aa, >Single-stranded... *
+>Cluster 236
+0	173aa, >αA-crystallin_FC00... *
+>Cluster 237
+0	168aa, >Plastocyanin... *
+>Cluster 238
+0	164aa, >T... *
+>Cluster 239
+0	164aa, >p21<sup>Cip1</sup>... *
+>Cluster 240
+0	163aa, >Troponin... *
+1	163aa, >Troponin... at 100.00%
+>Cluster 241
+0	160aa, >Protein... *
+1	160aa, >Protein... at 100.00%
+>Cluster 242
+0	158aa, >SUMO-conjugating... *
+>Cluster 243
+0	157aa, >Myosin... *
+>Cluster 244
+0	156aa, >Ribonuclease... *
+1	156aa, >Ribonuclease... at 100.00%
+2	156aa, >Ribonuclease... at 100.00%
+>Cluster 245
+0	156aa, >Ubiquitin-40S... *
+>Cluster 246
+0	150aa, >Glycophorin-A_FC003... *
+>Cluster 247
+0	149aa, >Calmodulin_FC00082_... *
+1	149aa, >Calmodulin-1_FC0019... at 100.00%
+2	149aa, >Calmodulin-1_FC0019... at 100.00%
+3	149aa, >Calmodulin-1_FC0019... at 100.00%
+4	149aa, >Calmodulin-1_FC0019... at 100.00%
+5	149aa, >Calmodulin-2_FC0020... at 100.00%
+6	149aa, >Calmodulin-1_FC0020... at 100.00%
+>Cluster 248
+0	148aa, >CDC48_2... *
+>Cluster 249
+0	140aa, >α-Synuclein_FC0008... *
+1	140aa, >α-Synuclein_FC0008... at 100.00%
+>Cluster 250
+0	139aa, >UmuD&#39;2_FC00041_... *
+1	139aa, >Protein... at 100.00%
+>Cluster 251
+0	139aa, >Plastocyanin_FC0030... *
+>Cluster 252
+0	136aa, >Histone... *
+1	136aa, >Histone... at 100.00%
+2	136aa, >Histone... at 100.00%
+3	136aa, >Histone... at 100.00%
+4	136aa, >Histone... at 100.00%
+5	136aa, >Histone... at 100.00%
+6	136aa, >Histone... at 100.00%
+7	136aa, >Histone... at 100.00%
+8	136aa, >Histone... at 100.00%
+9	136aa, >Histone... at 88.97%
+10	136aa, >Histone... at 88.97%
+11	136aa, >Histone... at 88.97%
+12	136aa, >Histone... at 88.97%
+13	125aa, >Histone... at 98.40%
+14	38aa, >Histone... at 100.00%
+15	136aa, >Histone... at 100.00%
+16	136aa, >Histone... at 100.00%
+>Cluster 253
+0	131aa, >Cytochrome... *
+>Cluster 254
+0	130aa, >Histone... *
+1	130aa, >Histone... at 100.00%
+>Cluster 255
+0	129aa, >Ciboulot_FC00032_25... *
+>Cluster 256
+0	129aa, >Protachykinin-1_FC0... *
+>Cluster 257
+0	128aa, >Penicillinase... *
+>Cluster 258
+0	127aa, >Positive... *
+1	127aa, >Positive... at 100.00%
+>Cluster 259
+0	127aa, >Major... *
+>Cluster 260
+0	121aa, >L7/L12... *
+>Cluster 261
+0	120aa, >Aplysia... *
+1	120aa, >Aplysia... at 100.00%
+>Cluster 262
+0	120aa, >Eukaryotic... *
+1	120aa, >Eukaryotic... at 100.00%
+2	120aa, >Eukaryotic... at 100.00%
+>Cluster 263
+0	118aa, >HTH-type... *
+>Cluster 264
+0	116aa, >Vesicle-associated... *
+>Cluster 265
+0	116aa, >Glycoprotein... *
+>Cluster 266
+0	115aa, >60S... *
+>Cluster 267
+0	114aa, >60S... *
+>Cluster 268
+0	112aa, >Transcription... *
+>Cluster 269
+0	112aa, >High... *
+>Cluster 270
+0	111aa, >Prothymosin... *
+1	111aa, >Prothymosin... at 100.00%
+>Cluster 271
+0	111aa, >PCNA-associated... *
+1	111aa, >PCNA-associated... at 100.00%
+2	111aa, >PCNA-associated... at 100.00%
+3	111aa, >PCNA-associated... at 100.00%
+>Cluster 272
+0	111aa, >Stress-response... *
+>Cluster 273
+0	109aa, >ATPase... *
+>Cluster 274
+0	109aa, >BM2_FC00375_26-109... *
+>Cluster 275
+0	107aa, >Calvin... *
+>Cluster 276
+0	107aa, >L0052_FC00265_50-10... *
+>Cluster 277
+0	107aa, >Growth-regulated... *
+>Cluster 278
+0	105aa, >Insulin_FC00210_25-... *
+>Cluster 279
+0	103aa, >Small... *
+>Cluster 280
+0	103aa, >Histone... *
+1	103aa, >Histone... at 100.00%
+2	103aa, >Histone... at 100.00%
+3	103aa, >Histone... at 100.00%
+4	103aa, >Histone... at 100.00%
+5	103aa, >Histone... at 100.00%
+>Cluster 281
+0	103aa, >Protein... *
+>Cluster 282
+0	103aa, >Phorbol-12-myristat... *
+>Cluster 283
+0	101aa, >Bd0108_FC00108_24-1... *
+>Cluster 284
+0	101aa, >TrfB... *
+>Cluster 285
+0	101aa, >Forkhead... *
+>Cluster 286
+0	101aa, >Platelet... *
+>Cluster 287
+0	99aa, >C-C... *
+>Cluster 288
+0	97aa, >Matrix... *
+>Cluster 289
+0	96aa, >Putative... *
+>Cluster 290
+0	96aa, >Protein... *
+>Cluster 291
+0	95aa, >Alpha-bungarotoxin_... *
+>Cluster 292
+0	92aa, >Protein... *
+>Cluster 293
+0	91aa, >C-C... *
+>Cluster 294
+0	90aa, >Protein... *
+>Cluster 295
+0	90aa, >DNA-binding... *
+>Cluster 296
+0	90aa, >Protein... *
+1	90aa, >Protein... at 100.00%
+>Cluster 297
+0	87aa, >Kappa-bungarotoxin_... *
+>Cluster 298
+0	87aa, >Cell... *
+1	87aa, >Cell... at 100.00%
+>Cluster 299
+0	87aa, >DNA-Binding... *
+>Cluster 300
+0	86aa, >Anhydrin_FC00078_1-... *
+1	86aa, >Anhydrin_FC00079_1-... at 100.00%
+>Cluster 301
+0	86aa, >Protein... *
+>Cluster 302
+0	77aa, >TSC22... *
+>Cluster 303
+0	76aa, >cAMP-dependent... *
+>Cluster 304
+0	72aa, >Antitoxin... *
+>Cluster 305
+0	68aa, >IA3... *
+>Cluster 306
+0	64aa, >Translational... *
+>Cluster 307
+0	61aa, >Carbon... *
+>Cluster 308
+0	61aa, >Putative... *
+>Cluster 309
+0	59aa, >Envelope... *
+>Cluster 310
+0	59aa, >Ferredoxin-1_FC0032... *
+>Cluster 311
+0	57aa, >Lantibiotic... *
+>Cluster 312
+0	52aa, >Cardiac... *
+1	52aa, >Cardiac... at 100.00%
+>Cluster 313
+0	44aa, >Thymosine... *
+>Cluster 314
+0	36aa, >Pancreatic... *
+>Cluster 315
+0	30aa, >Conotoxin... *
