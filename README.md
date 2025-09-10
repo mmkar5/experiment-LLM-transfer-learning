@@ -80,3 +80,9 @@ To run this project, you need to install the following libraries:
 4. # Validation
 
 The `Validation_datsets.ipynb` can be used to check the f1, precission and recall scores along with the confusion matrix for a trained model with datasets that can be used for validation. The previously saved models can be loaded from the saved directories like `PLM_Sequence_LORA_Outputs/my_model_dir/` and the tokens can be loaded from saved directories like `PLM_Sequence_LORA_Outputs/tokenizer_dir/`.
+
+5. # Per Residue Classification (Token Classification)
+
+For token classification, `preprocess_mobidb_datasets.ipynb` was used to process the dataset for per-residue classification. The result was saved as `processed_mobidb_data.csv`.
+
+Further, ESM2 models with different parameters was used for token classification. The notebooks are:  `esm2_8m_token_classification.ipynb`, `esm2_35m_token_classification.ipynb`, `esm2_150m_token_classification.ipynb` and `esm2_650m_token_classification.ipynb`. The training logs is located in the directory, `training_logs_token_classification`.
