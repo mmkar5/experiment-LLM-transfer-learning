@@ -85,4 +85,15 @@ The `Validation_datsets.ipynb` can be used to check the f1, precission and recal
 
 For token classification, `preprocess_mobidb_datasets.ipynb` was used to process the dataset for per-residue classification. The result was saved as `processed_mobidb_data.csv`.
 
-Further, ESM2 models with different parameters was used for token classification. The notebooks are:  `esm2_8m_token_classification.ipynb`, `esm2_35m_token_classification.ipynb`, `esm2_150m_token_classification.ipynb` and `esm2_650m_token_classification.ipynb`. The training logs is located in the directory, `training_logs_token_classification`.
+Further, ESM2 models with different parameters was used for token classification. The notebooks are:  `esm2_8m_token_classification.ipynb`, `esm2_35m_token_classification.ipynb`, `esm2_150m_token_classification.ipynb` and `esm2_650m_token_classification.ipynb`. 
+
+6. # Sequence classification using ESMC 300M and 600M modified models
+ `ESMC300M_Transfer_Learning_classification_modified.ipynb`,  `ESMC600M_Transfer_Learning_classification_modified.ipynb`
+
+
+The training logs is located in the directory, `training_logs`.
+
+
+
+
+
